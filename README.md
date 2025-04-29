@@ -13,7 +13,7 @@ We applied four different supervised machine learning algorithms to classify pas
 
 1. **Support Vector Machine (SVM)**
 2. **Decision Tree**
-3. **K-Nearest Neighbors (KNN)**
+3. **Logistic Regression**
 4. **Random Forest**
 
 Each model was trained, tested, and evaluated using appropriate performance metrics such as accuracy, precision, recall, and F1-score.
